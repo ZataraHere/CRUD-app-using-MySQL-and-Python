@@ -1,4 +1,2 @@
 try.ipynb
-venv
-.idea
-.gitignore
+venv/
